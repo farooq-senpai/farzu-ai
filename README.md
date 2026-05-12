@@ -1,6 +1,3 @@
-Here’s a complete GitHub README for your Python AI Chatbot, using the concise description we finalized:
-
----
 
 # AI Chatbot (Full-Stack Personal Assistant)
 
@@ -59,9 +56,6 @@ python main.py
 
 2. Interact with the bot via CLI or optional web interface.
 
-## Screenshots
-
-*(Add screenshots or demo GIFs here if available)*
 
 ## Contributing
 
